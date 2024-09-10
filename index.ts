@@ -1,7 +1,7 @@
 import blog from "https://deno.land/x/blog@0.3.3/blog.tsx";
 
 blog({
-  title: "ElliNet13's Deno Blog",
+  title: "ElliNet13's Blog",
   author: "ElliNet13",
   // avatar: "./avatar.svg",
   // avatarClass: "full",
