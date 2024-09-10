@@ -37,6 +37,3 @@ blog({
   background: "#fff",
   middleware: [injectGoogleAnalytics],  // Inject the GA middleware
 });
-
-// Start the server
-serve((req) => blog(req));
